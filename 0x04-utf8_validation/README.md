@@ -1,4 +1,4 @@
-# UTF-8 Validation
+# UTF-8 Validations
 
 This project contains interview coding challenges.
 
