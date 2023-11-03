@@ -1,4 +1,5 @@
-# N Queens
+
+# N Queen
 
 This project contains interview coding challenges.
 
