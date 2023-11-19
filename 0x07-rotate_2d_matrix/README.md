@@ -1,4 +1,4 @@
-# Rotate 2D Matrix
+# Rotation of 2D Matrix
 
 This project contains interview coding challenges.
 
