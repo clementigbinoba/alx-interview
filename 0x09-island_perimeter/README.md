@@ -1,6 +1,6 @@
 # Island Perimeter
 
-This project contains interview coding challenges.
+This project contain interview coding challenges.
 
 ## Tasks To Complete
 
